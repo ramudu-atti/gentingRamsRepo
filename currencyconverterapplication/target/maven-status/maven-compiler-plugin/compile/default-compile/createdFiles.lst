@@ -1,0 +1,7 @@
+com/genting/ram/config/ResourceConfigApp.class
+com/genting/ram/entity/ExchangeCurrency.class
+com/genting/ram/entity/Currency.class
+com/genting/ram/entity/ExchangeCurrencyEntity.class
+com/genting/ram/starter/CurrencyConversionBootStarter.class
+com/genting/ram/endpoints/CurrencyExchangeService.class
+com/genting/ram/entity/TradingCurrency.class
